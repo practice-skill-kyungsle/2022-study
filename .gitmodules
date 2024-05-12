@@ -1,3 +1,12 @@
 [submodule "2203-nomad-nextjs"]
 	path = 2203-nomad-nextjs
 	url = https://github.com/practice-skill-kyungsle/nomad-nextjs.git
+[submodule "2203-nomad-redux-101"]
+	path = 2203-nomad-redux-101
+	url = https://github.com/practice-skill-kyungsle/nomad-redux-101.git
+[submodule "2209-implement-jquery-scroll"]
+	path = 2209-implement-jquery-scroll
+	url = https://github.com/practice-skill-kyungsle/jquery-scroll.git
+[submodule "2210-practice-scroll-indicator"]
+	path = 2210-practice-scroll-indicator
+	url = https://github.com/practice-skill-kyungsle/practice-scroll-indicator.git
